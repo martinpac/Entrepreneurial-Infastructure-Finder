@@ -18,13 +18,6 @@
             <asp:Label ID="WelcomeLabel" runat="server"></asp:Label>
         </div>
         <div>
-            <p>
-            <b>Description:</b> This is the Staff Page where only the TA username can add staff personal to the Staff.xml. You cannot see the xml <br />
-            (for security reasons here) but you can see it in the http://webstrar35.fulton.asu.edu/page4/ page that was provided in assignment 6. <br />
-            You cannot add the same staff with the same password in twice or you will be dsiplayed an error message. 
-        </p>
-        </div>
-        <div>
             <br />
             <br />
             Username:
