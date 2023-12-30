@@ -41,16 +41,7 @@
         <br />
     </div>
         <div>
-            <p>
-            <b>Description:</b> This is the Members Page where a user cna signup for our services and be able to use them afterwards. <br />
-            When they signup their user name and encrypted password (using DLL library) will be saved to the Members.xml file. During the <br />
-            they will be propted to verfify they are a human with Google reCAPTCHA and only with this verification they can signup for the services. <br />
-            With these credentials they can login in through the default page later on (or if they clear thier cookies) because they are already <br />
-            in the system. 
-            You are not able to sign up twice with the same username and password, also you can not leave the textboxes empty when signing up or you will be<br />
-                displayed an error message.
-            </p>
-            <p>
+        <p>
            <b><u>Functions/Features Descriptions</u></b> <br />
            <b>Population Service Description:</b> With the state abbreviation, it will return the most recent population of that state. <br />
            <b> Weather Service Description: </b>Takes a zipcode and returns a weather report for the next 5 days including temperature,wind speed, description, etc. <br />
