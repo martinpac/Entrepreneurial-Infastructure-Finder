@@ -63,11 +63,11 @@
         <br />
         <br />
 
-        <div class="g-recaptcha" data-sitekey="6LdFfRkpAAAAANF6GXRLp3FfQWAKa_BFas_EbyJz">
+        <div class="g-recaptcha" data-sitekey="Local Host Key">
         </div>
         
         <!-- webstrar host key
-        <div class="g-recaptcha" data-sitekey="6LcKkh0pAAAAAOio64QK7YF5hgTzafAtsScf2PGC">
+        <div class="g-recaptcha" data-sitekey="Optional Server Key">
         </div>
             -->
         &nbsp;<br />
