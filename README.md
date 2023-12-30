@@ -9,7 +9,7 @@ This project is designed to provide entrepreneurs with comprehensive data about 
 
 ## Features
 * Login/Signup features fully implemented including image captcha, page redirects, and cookies.
-* Input the state and zip code of your desired area, and gain access to a wealth of information, including:
+* Input the state abbreviation and zip code of your desired area, and gain access to a wealth of information, including:
   * Tax Returns: Understand the tax landscape to optimize your financial planning.
   * Population Statistics: Get insights into the population size of the area.
   * Weather Reports: Stay prepared with accurate weather forecasts tailored to the chosen location.
