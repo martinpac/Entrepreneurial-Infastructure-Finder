@@ -139,10 +139,10 @@ namespace Assignment7
                     // Verify reCAPTCHA
                     
                     //local host key
-                    string recaptchaSecretKey = "6LdFfRkpAAAAAA0oXuKtRGLaB1ut-w2ZoQcoVKK9";
+                    string recaptchaSecretKey = "Your Local Key";
 
                     //webstrar host key
-                    //string recaptchaSecretKey = "6LcKkh0pAAAAAGaptOq2eIQZRFwSZ0DStpu6LrBd";
+                    //string recaptchaSecretKey = "Optional Server Key";
 
                     string recaptchaResponse = Request["g-recaptcha-response"];
                     string verificationUrl = $"https://www.google.com/recaptcha/api/siteverify?secret={recaptchaSecretKey}&response={recaptchaResponse}";
